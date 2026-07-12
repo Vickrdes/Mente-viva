@@ -24,10 +24,6 @@ O **Mente Viva** é um aplicativo focado no auxílio a idosos com predisposiçã
 * **Backend & Database:** Firebase (Firestore)
 * **Gestão:** Trello (Kanban), Scrum (Sprints semanais)
 
-## 📂 Estrutura do Repositório
-* `lib/`: Contém todas as telas (.dart) desenvolvidas para o aplicativo.
-* `database/`: Regras de segurança e índices do Firestore.
-* `pubspec.yaml`: Arquivo de configuração de dependências do Flutter.
 
 ---
 
